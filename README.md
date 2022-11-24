@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shoaib Salik
 - 👀 I’m interested in AWS cloud.
-- 🌱 I’m currently learning SysOps / Terraform.
+- 🌱 I’m currently learning AWS SysOps / Terraform.
 - 💞️ I’m looking to collaborate on projects and learning about AWS cloud and Terraform.
 - 📫 How to reach me - @mdshoaibsalik
 
