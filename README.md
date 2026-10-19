@@ -4,7 +4,7 @@
 
 I build and automate cloud infrastructure, CI/CD pipelines, and secure Kubernetes platforms, with a focus on enterprise DevOps automation and application modernization.
 
-### 🔧 What I Work On
+### 🔧 What I've Worked On
 - 🔄 **Repository Migration:** Automating Azure DevOps to GitHub Enterprise migrations.
 - ☸️ **Platform Engineering:** AKS, Kubernetes, Helm, Istio, and containerized deployments.
 - 🔐 **DevSecOps:** Integrating SonarQube, GitHub Advanced Security, CodeQL, and Trivy into CI/CD pipelines.
